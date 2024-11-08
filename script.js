@@ -65,3 +65,5 @@ do {
             break
     }
 } while (area !== "6")
+
+console.log('Deu certo!')
